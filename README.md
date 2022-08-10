@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arduan&theme=solarized_dark)
 
-Статистика профиля:
+Статистика профиля:     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arduan&theme=solarized_dark)
 
 Данные по времени суток:     
