@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arduan&theme=solarized_dark)
 
-Данные по коммитам за сутки:
+Данные по времени суток:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arduan&theme=solarized_dark)
 
